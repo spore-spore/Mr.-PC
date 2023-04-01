@@ -19,3 +19,5 @@ I cannot include the Filosax data set in its original form, since it utilizes co
 **music_gen**: uses a model trained with the new_train script to create MIDI files of soloing over a given chord progression.
 
 **vocab_gen_new**: creates a set of vocabulary files from a given data set
+
+**schord_decoder**: An auxiliary script that translates chord symbols into string notation
