@@ -1,0 +1,7 @@
+{
+  "additional_special_tokens": [
+    "<formula>"
+  ],
+  "eos_token": "<eos>",
+  "unk_token": "<unk>"
+}
